@@ -17,9 +17,9 @@ social:
   - title: twitter
     url: https://twitter.com/AucklandHackspace
   - title: facebook
-    url: https://facebook.com/AucklandHackspace/
+    url: https://facebook.com/AuckHackspace/
   - title: github
-    url: https://github.com/AucklandHackspace/site
+    url: https://github.com/AucklandHackspace/
 
 # Build settings
 markdown: kramdown
