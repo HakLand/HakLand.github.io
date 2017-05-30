@@ -1,5 +1,5 @@
 # Site settings
-title: Auckland Hackspace
+title: hAKLand
 email: info@aucklandhackspace.nz
 url: https://aucklandhackspace.nz
 description: "A nest of tech, art, creativity and freedom"
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: aucklandhackspace.nz
+footer: hAKLand.nz
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
