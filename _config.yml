@@ -14,8 +14,8 @@ footer: HackLand.nz
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/AucklandHackspace
+  - title: slack
+    url: https://join.slack.com/hakland/shared_invite/MTkwOTk4MDI5NjUwLTE0OTYzMDE0NDYtNGNmMDMxZGUxNw
   - title: facebook
     url: https://facebook.com/AuckHackspace/
   - title: github
