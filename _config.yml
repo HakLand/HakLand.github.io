@@ -16,12 +16,12 @@ footer: HackLand.nz
 social:
   - title: slack
     url: https://join.slack.com/hakland/shared_invite/MTkwOTk4MDI5NjUwLTE0OTYzMDE0NDYtNGNmMDMxZGUxNw
-  - title: meetup
-    url: https://www.meetup.com/HackLand/
-  - title: facebook
-    url: https://facebook.com/AuckHackspace/
   - title: github
     url: https://github.com/HakLand/
+  - title: twitter
+    url: https://twitter.com/AKL_Hackspace/
+  - title: facebook
+    url: https://facebook.com/AuckHackspace/
 
 # Build settings
 markdown: kramdown
