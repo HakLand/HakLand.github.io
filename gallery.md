@@ -8,9 +8,11 @@ description: The goings on at Hackland
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 
 <div class="grid">
+    <div class="grid-item"><img src="/public/images/gallery/20191109_122955.jpg" alt=""></div>
     <div class="grid-item"><img src="/public/images/gallery/gallery3.jpg" alt=""></div>
     <div class="grid-item"><img src="/public/images/gallery/gallery2.jpg" alt=""></div>
     <div class="grid-item"><img src="/public/images/gallery/gallery1.jpg" alt=""></div>
+    <div class="grid-item"><img src="/public/images/gallery/20191021_133314-01.jpeg" alt=""></div>
     <div class="grid-item"><img src="/public/images/gallery/gallery4.jpg" alt=""></div>
     <div class="grid-item"><img src="/public/images/gallery/gallery5.jpg" alt=""></div>
     <div class="grid-item"><img src="/public/images/gallery/gallery6.jpg" alt=""></div>
