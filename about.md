@@ -16,7 +16,7 @@ We have very few hard and fast rules, instead we prefer to encourage creativity 
 
 ### Safety
 
-We make awesome tools accessible to members and the public at times. This means that members hold a lot of responsibility both for themselves and for others wellbeings.
+We make awesome tools accessible to members and the public at times. This means that members hold a lot of responsibility both for themselves and for others wellbeings. Please make sure that others using the space are aware of work that you are doing and give them plenty of opportunity to equip safety gear.
 
 ### Non Exclusivity
 

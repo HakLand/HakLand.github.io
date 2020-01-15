@@ -22,6 +22,12 @@ We are situated in Kingsland, Auckland.
         </p>
     </div>
 </div>
+
+Parking is available in front of the Hackland doors, at the rear of the building and on the street after 6PM.
+
+<img class="tool-pic" src="/public/images/parking.png"/>
+
+
 You can also find us online at...
 
 <div class="links">
