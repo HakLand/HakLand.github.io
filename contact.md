@@ -7,7 +7,7 @@ description:
 The two best ways to get in touch are...
 
 1. [Talk to us on Slack](https://join.slack.com/hakland/shared_invite/MTkwOTk4MDI5NjUwLTE0OTYzMDE0NDYtNGNmMDMxZGUxNw)
-2. [Come to one of our meetups, we are open to the public every Thursday night](https://www.meetup.com/HackLand/)
+2. [Come to one of our open nights, we are open to the public every Thursday night](https://www.facebook.com/pg/AuckHackspace/events/)
 
 We are situated in Kingsland, Auckland.
 
@@ -34,7 +34,6 @@ You can also find us online at...
     <a class="button" href="https://facebook.com/AuckHackspace/"><i class="fa fa-facebook fa-fw"></i> Facebook</a>
     <a class="button" href="https://github.com/HakLand/"><i class="fa fa-github fa-fw"></i> Github</a>
     <a class="button" href="https://twitter.com/AKL_Hackspace/"><i class="fa fa-twitter fa-fw"></i> Twitter</a>
-    <a class="button" href="https://www.meetup.com/HackLand/">Meetup</a>
     <a class="button" href="https://www.loomio.org/invitations/c087a1f90764a4d182a0"><img src="/public/images/loomio.png" style="width:1em;text-align: center;"/> Loomio</a>
 </div>
 
