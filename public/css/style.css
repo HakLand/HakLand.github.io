@@ -6,20 +6,6 @@ body{
   margin-top:1.5em;
 }
 
-@media screen and (min-width: 600px) {
-  html{
-    /* background-image: url(https://images.unsplash.com/photo-1564089957880-517edea1afc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80); */
-    /* background-color:black; */
-    min-height: 500px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  }
-  .tagline{
-    font-size: 1.5em;
-  }
-}
-
 a{
   color:#333;
 }
@@ -28,11 +14,28 @@ a:hover{
   text-decoration: underline;
 }
 
+img{
+  width: 100%;
+}
+
+
+.container{
+  max-width: 50em;
+  margin:auto;
+  padding:1em;
+}
+
+.container-wide{
+  max-width: 90%;
+  margin:auto;
+  padding:1em;
+}
+
 #main-content{
-  background-color: white;
-  border-radius: 2em;
   padding: 1.5em 1.5em;
 }
+
+/** Nav **/
 
 .top{
   display:flex;
@@ -55,7 +58,7 @@ a:hover{
   text-decoration: none;
 }
 
-.sidebar-nav-item{
+.nav-item{
   padding:2px 4px;
   margin:2px;
   text-decoration: none;
@@ -63,6 +66,12 @@ a:hover{
 
 .nav .icon {
   display: none;
+}
+
+@media screen and (min-width: 600px) {
+  .tagline{
+    font-size: 1.5em;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -82,45 +91,40 @@ a:hover{
   }
 }
 
-.tagline{
-  padding:1em;
-
-}
-
 .screen-reader-text{
   border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important
 }
 
-.container{
-  max-width: 50em;
-  margin:auto;
-  padding:1em;
-}
-
-.container-wide{
-  max-width: 90%;
-  margin:auto;
-  padding:1em;
-}
 
 
-img{
-  width: 100%;
-}
-
-.big-image{
-  /* max-height: 400px; */
-  max-width: 100%;
-  margin: auto;
-  display: block;
-}
+/** Tools **/
 
 .tool{
   display: flex;
   margin-top:1em;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
+
+.tool-description{
+  padding:1em;
+  width:100%;
+}
+
+@media screen and (min-width: 800px) {
+  .tool{
+    flex-wrap: nowrap;
+  }
+
+  .tool-pic{
+    width:400px;
+  }
+  
+}
+
+
+/** Gallery **/
 
 .grid{
   display: flex;
@@ -146,19 +150,7 @@ img{
   /* padding:1em; */
 }
 
-@media screen and (max-width: 600px) {
-  .tool{
-    flex-wrap: wrap;
-  }
-  .tool-description{
-    width:50%;
-  }
-}
-
-.tool-description{
-  padding:1em;
-  width:100%;
-}
+/** Contact **/
 
 .links{
   display: flex;
@@ -180,5 +172,18 @@ a.button{
   padding:0.5em;
    margin:0.5em;
    text-decoration: none;
+}
 
+/** Home **/
+
+.tagline{
+  padding:1em;
+
+}
+
+.big-image{
+  /* max-height: 400px; */
+  max-width: 100%;
+  margin: auto;
+  display: block;
 }
