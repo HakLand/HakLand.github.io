@@ -1,0 +1,189 @@
+*{
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+body{
+  margin-top:1.5em;
+}
+
+a{
+  color:#333;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+img{
+  width: 100%;
+}
+
+
+.container{
+  max-width: 50em;
+  margin:auto;
+  padding:1em;
+}
+
+.container-wide{
+  max-width: 90%;
+  margin:auto;
+  padding:1em;
+}
+
+#main-content{
+  padding: 1.5em 1.5em;
+}
+
+/** Nav **/
+
+.top{
+  display:flex;
+  justify-content: space-between;
+}
+
+#site-title{
+  margin-left:0.5em;
+  margin-top: 0;
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
+
+#logo{
+  height:70px;
+  width: 105px;
+}
+
+#site-title a{
+  text-decoration: none;
+}
+
+.nav-item{
+  padding:2px 4px;
+  margin:2px;
+  text-decoration: none;
+}
+
+.nav .icon {
+  display: none;
+}
+
+@media screen and (min-width: 600px) {
+  .tagline{
+    font-size: 1.5em;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nav a {display: none;}
+  .nav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nav.responsive {position: relative;}
+  .nav.responsive a {
+    float: none;
+    display: block;
+    text-align: right;
+  }
+}
+
+.screen-reader-text{
+  border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important
+}
+
+
+
+/** Tools **/
+
+.tool{
+  display: flex;
+  margin-top:1em;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.tool-description{
+  padding:1em;
+  width:100%;
+}
+
+@media screen and (min-width: 800px) {
+  .tool{
+    flex-wrap: nowrap;
+  }
+
+  .tool-pic{
+    width:400px;
+  }
+  
+}
+
+
+/** Gallery **/
+
+.grid{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  overflow: auto;
+  position:absolute;
+  left:0;
+  right:0;
+  flex-wrap: wrap;
+}
+.grid-item{
+  max-width:400px;
+  object-fit: cover;
+}
+
+.grid-item img {
+  display: block;
+  max-width: 95%;
+  margin: auto;
+  margin-top: 20px;
+  /* padding:1em; */
+}
+
+/** Contact **/
+
+.links{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (min-width: 600px) {
+  .links{
+    flex-wrap: nowrap;
+  }
+}
+
+a.button{
+  /* display: block; */
+  background-color: #1e82ae;
+  color:white;
+  border-radius: 10px;
+  width:50%;
+  padding:0.5em;
+   margin:0.5em;
+   text-decoration: none;
+}
+
+/** Home **/
+
+.tagline{
+  padding:1em;
+
+}
+
+.big-image{
+  /* max-height: 400px; */
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}

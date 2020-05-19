@@ -1,0 +1,25 @@
+
+<div class="top">
+  <!-- <h1 id="site-title"><a href="/"><span style="color:#e6cc00;">HACK</span><span style="color:#1e82ae;">LAND</span></a></h1> -->
+  <a href="/"><img id="logo" src="/public/images/Hackland-2Lines.png"/></a>
+  <nav id="nav" class="nav">
+      <a href="#main-content" class="screen-reader-text">Skip Navigation</a>
+      <a class="nav-item icon" href="javascript:void(0);" onclick="menu()">Menu</a>
+      <!-- <a class="nav-item" href="/blog/">Blog</a> -->
+      <a class="nav-item" href="/join/">Join</a>
+      <a class="nav-item" href="/gallery/">Gallery</a>
+      <a class="nav-item" href="/tools/">Tools</a>
+      <a class="nav-item" href="/contact/">Contact</a>
+      <a class="nav-item" href="/about/">About</a>
+  </nav>
+  <script>
+    function menu() {
+      var x = document.getElementById("nav");
+      if (x.className === "nav") {
+        x.className += " responsive";
+      } else {
+        x.className = "nav";
+      }
+    }
+    </script>
+</div>
