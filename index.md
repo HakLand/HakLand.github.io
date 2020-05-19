@@ -10,7 +10,7 @@ description:
 
 ## Quick Links
 
-+ [Join our Slack (the easiest way to talk to us)](https://join.slack.com/hakland/shared_invite/MTkwOTk4MDI5NjUwLTE0OTYzMDE0NDYtNGNmMDMxZGUxNw)
++ [Join our Slack (the easiest way to talk to us)](https://join.slack.com/t/hakland/shared_invite/zt-2fqramvm-UY8p_R49~Q1EKQfYgzcjKA)
 + [Join Hackland](/join/)
 + [Blog](/blog/)
 + [Our Tools](/tools/)

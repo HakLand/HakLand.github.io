@@ -67,31 +67,27 @@ description: The Tools we currently have at Hackland
         <p>
             We have a collection of sewing machines including overlockers.
         </p>
-        <img src="/public/images/tools/brother.jpg"/>
-        <img src="/public/images/tools/brother-overlock.jpg"/>
     </div>
 </div>
 
 <div class="tool">
-    <img class="tool-pic" src="/public/images/tools/dropsaw.jpg"/>
+    <img class="tool-pic" src="/public/images/tools/table-saw.jpg"/>
     <div class="tool-description">
         <h3 class="tool-title">Mitre Saw</h3>
         <p>
             We have an extensive range of saws, including a table saw and circular saws too.
         </p>
-        <img src="/public/images/tools/table-saw.jpg"/>
     </div>
 </div>
 
 
 <div class="tool">
-    <img class="tool-pic" src="/public/images/tools/hand-tools.jpg"/>
+    <img class="tool-pic" src="/public/images/tools/shadow-board.jpg"/>
     <div class="tool-description">
         <h3 class="tool-title">Hand Tools</h3>
         <p>
             For woodword, metalwork, randomwork and much more.
         </p>
-        <img src="/public/images/tools/shadow-board.jpg"/>
     </div>
 </div>
 
@@ -200,13 +196,11 @@ description: The Tools we currently have at Hackland
 </div>
 
 <div class="tool">
-    <img class="tool-pic" src="/public/images/tools/power-tools1.jpg"/>
+    <img class="tool-pic" src="/public/images/tools/power-tools2.jpg"/>
     <div class="tool-description">
         <h3 class="tool-title">Power Tools</h3>
         <p>
             Drills, belt sanders, palm sanders, routers, angle grinders, heatguns, nailguns...etc.
         </p>
-        <img src="/public/images/tools/power-tools2.jpg"/>
-        <img src="/public/images/tools/power-tools3.jpg"/>
     </div>
 </div>
