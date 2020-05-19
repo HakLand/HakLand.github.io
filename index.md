@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hackland
-description: 
+description: A makerspace in Auckland
 ---
 
 ![](/public/images/intro-bg.jpg)
@@ -12,6 +12,5 @@ description:
 
 + [Join our Slack (the easiest way to talk to us)](https://join.slack.com/t/hakland/shared_invite/zt-2fqramvm-UY8p_R49~Q1EKQfYgzcjKA)
 + [Join Hackland](/join/)
-+ [Blog](/blog/)
 + [Our Tools](/tools/)
 + [Contact Hackland](/contact/)
