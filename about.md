@@ -50,9 +50,9 @@ We welcome donations! And really appreciate all of things that have been donated
 
 ## Friends of Hackland
 
-#### Auckland Library of Tools ([website](https://www.aucklandlibraryoftools.com/))
+#### Auckland Library of Tools ([website](https://www.aucklandlibraryoftools.com/)) 
 
-Like a Library but for tools, sign up for 3 months or 1 year and you can borrow up to 10 tools for 7 days. All the other library stuff applies, you can renew tools, or reserve really popular ones, even late fees.
+Like a Library but for tools, sign up for 3 months or 1 year and you can borrow up to 10 tools for 7 days. All the other library stuff applies, you can renew tools, or reserve really popular ones, even late fees. *- Located inside Hackland*
 
 #### Gribblehirst Hub ([website](https://ghub.nz/))
 
