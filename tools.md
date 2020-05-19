@@ -86,7 +86,7 @@ description: The Tools we currently have at Hackland
     <div class="tool-description">
         <h3 class="tool-title">Hand Tools</h3>
         <p>
-            For woodword, metalwork, randomwork and much more.
+            For woodwork, metalwork, randomwork and much more.
         </p>
     </div>
 </div>
