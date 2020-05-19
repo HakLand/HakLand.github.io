@@ -45,7 +45,7 @@ A hackspace is a great place to try ideas, prototype first versions and maybe ev
 
 ### Donation of Things & Materials
 
-We welcome donations! Things can either be loaned to the space or gifted to the space. Please note however that space is at a premium, if donated items take up a large amount of space or are not in the interests of the community a discussion should be had before accepting them.
+We welcome donations! And really appreciate all of things that have been donated or loaned to us. However space is now at a premium in Hackland. Please ask around to confirm members will actually use the tools/materials donated. **Dumping outside Hackland is prohibited.**
 
 
 ## Friends of Hackland
