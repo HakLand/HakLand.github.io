@@ -164,14 +164,15 @@ img{
 }
 
 a.button{
-  /* display: block; */
+  display: block;
   background-color: #1e82ae;
   color:white;
-  border-radius: 10px;
-  width:50%;
+  border-radius: 3px;
+  width:200px;
   padding:0.5em;
-   margin:0.5em;
-   text-decoration: none;
+  margin:auto;
+  text-decoration: none;
+  margin-bottom: 10px;
 }
 
 /** Home **/

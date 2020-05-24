@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join Hackland
-description: 
+description: Join Hackland as a member to gain 24 hour access to the space and learn/make/create as much as your heart desires
 ---
 
 Members can use the space whenever they want, 24 hours every day of the week.
