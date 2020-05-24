@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-description: 
+description: How to get in touch with Hackland and the rest of the community
 ---
 
 The two best ways to get in touch are...

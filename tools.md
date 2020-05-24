@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Tools
-description: The Tools we currently have at Hackland
+description: Just some of the many tools we have at Hackland
 ---
 
 <div class="tool">

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: A bit about Hackland
+description: Find out more about Hacklands guiding principles and how we operate day to day
 ---
 
 ## Who are we?
