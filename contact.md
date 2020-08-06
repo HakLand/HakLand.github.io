@@ -7,7 +7,7 @@ description: How to get in touch with Hackland and the rest of the community
 The two best ways to get in touch are...
 
 1. [Talk to us on Slack](https://join.slack.com/t/hakland/shared_invite/zt-2fqramvm-UY8p_R49~Q1EKQfYgzcjKA)
-2. [Come to one of our open nights, we are open to the public every Thursday night](https://www.facebook.com/pg/AuckHackspace/events/) (We are not holding events for the time being due to Covid-19, please get in touch with us on Slack)
+2. [Come to one of our open nights, we are open to the public every Thursday night](https://www.facebook.com/pg/AuckHackspace/events/)
 
 We are situated in Kingsland, Auckland.
 
