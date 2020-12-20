@@ -10,7 +10,7 @@ description: A makerspace nestled in the heart of Kingsland, Auckland. A place w
 
 ## Quick Links
 
-+ [Join our Slack (the easiest way to talk to us)](https://join.slack.com/t/hakland/shared_invite/zt-2fqramvm-UY8p_R49~Q1EKQfYgzcjKA)
++ [Join our Slack (the easiest way to talk to us)](https://join.slack.com/t/hakland/shared_invite/zt-jrrkrdoi-it~AwREvT_ExamWwextFGw)
 + [Join Hackland](/join/)
 + [Our Tools](/tools/)
 + [Contact Hackland](/contact/)
