@@ -25,7 +25,7 @@ description: Just some of the many tools we have at Hackland
             Fully dust extracted. Induction required to use!
         </p>
         <p>
-            Courses running for use (open to public) - register: <a href="https://www.meetup.com/Hackland-Makerspace/">https://www.meetup.com/HackLand/</a>
+            Courses running for use (open to public) - register: <a href="https://www.meetup.com/Hackland-Makerspace/">https://www.meetup.com/Hackland-Makerspace/</a>
         </p>
     </div>
 </div>
