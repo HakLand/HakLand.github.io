@@ -9,23 +9,18 @@ The two best ways to get in touch are...
 1. [Talk to us on Slack](https://join.slack.com/t/hakland/shared_invite/zt-jrrkrdoi-it~AwREvT_ExamWwextFGw)
 2. [Come to one of our open nights, we are open to the public every Thursday night](https://www.facebook.com/pg/AuckHackspace/events/)
 
-We are situated in Kingsland, Auckland.
+We are situated on Newton Rd, Auckland.
 
 <div class="tool">
-<img class="tool-pic" src="/public/images/map.png"/>
     <div class="tool-description">
         <p>
             Hackland Inc. <br>
-            Unit B-C, 48 Bond Street,<br>
-            Kingsland,<br>
-            Auckland, 1021
+            21 Newton Rd,<br>
+            Grey Lynn,<br>
+            Auckland, 1010
         </p>
     </div>
 </div>
-
-Parking is available in front of the Hackland doors, at the rear of the building and on the street after 6PM.
-
-<img class="tool-pic" src="/public/images/parking.png"/>
 
 
 You can also find us online at...
