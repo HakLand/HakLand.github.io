@@ -19,7 +19,7 @@ Membership includes full access to everything 24/7<sup>1</sup> including:
 + All of the tea / coffee
 + We have recycling, rubbish and compost bins to use, please dispose of things properly. These services are for everyone to use, so if you want to dispose of large quantities please consider taking them to the [refuse centre](https://www.aucklandcouncil.govt.nz/rubbish-recycling/Pages/transfer-stations.aspx)
 
-<sup>1</sup> No powertools/noisy things after 10pm
+<sup>1</sup> No powertools/noisy things after 7pm
 
 Please have a read [here](/about/) for more information around how Hackland operates day to day
 
