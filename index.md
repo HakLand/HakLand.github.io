@@ -4,11 +4,7 @@ title: Hackland
 description: A makerspace nestled in the heart of Kingsland, Auckland. A place where anyone can come to learn, make or just hang out
 ---
 
-
-
-| ![](/public/images/downstairs.jpg) | ![](/public/images/upstairs.jpg) |
-| ---        | ---      |
-| Downstairs | Upstairs |
+![](/public/images/intro-bg.jpg)
 
 <h4 class="tagline">Hackland is a makerspace in Auckland where <span style="text-decoration:underline;">anyone</span> can come to learn, make or just hang out.</h4>
 
