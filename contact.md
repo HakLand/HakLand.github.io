@@ -22,8 +22,6 @@ We are situated on Newton Rd, Auckland.
     </div>
 </div>
 
-If you want to make any changes to the website, then please [Talk to us on Slack](https://join.slack.com/t/hakland/shared_invite/zt-jrrkrdoi-it~AwREvT_ExamWwextFGw).
-
 You can also find us online at...
 
 <div class="links">
