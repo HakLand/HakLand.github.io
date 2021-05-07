@@ -65,14 +65,14 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ffi (>= 1.9.24)
-  jekyll (>= 3.8.5)
-  jekyll-imagemagick (>= 1.4.0)
-  jekyll-paginate-v2 (>= 1.6.1)
-  jekyll-seo-tag (>= 2.1.0)
-  jekyll-sitemap (>= 1.0.0)
-  kramdown (>= 1.13.2)
-  rouge (>= 1.11.1)
+  ffi
+  jekyll
+  jekyll-imagemagick
+  jekyll-paginate-v2
+  jekyll-seo-tag
+  jekyll-sitemap
+  kramdown
+  rouge
 
 BUNDLED WITH
-   2.0.1
+   2.2.17
