@@ -7,8 +7,6 @@ author: Andrew Punnett
 main_image: /public/images/tools/sock-knit.jpg
 ---
 
-# Sock Knitting Device
-
 Want to knit your own socks? Tired of actually knitting? This is the tool for you. 
 
 ![](/public/images/tools/sock-knit.jpg)
