@@ -8,8 +8,17 @@ description: Tools at Hackland
 
 Click on a tool for more info.
 
+<ul>
 {% for post in site.posts %}
 {% if post.categories contains "tools" %}
+    <li><a href="#{{ post.id }}">{{ post.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+{% for post in site.posts %}
+{% if post.categories contains "tools" %}
+<a href="#{{ post.id }}"></a>
 <div class="tool">
     <a href="{{ post.url }}"><img class="tool-pic" src="{{ post.main_image }}"/></a>
     <div class="tool-description">
