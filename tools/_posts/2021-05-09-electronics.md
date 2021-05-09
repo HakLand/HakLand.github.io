@@ -7,8 +7,6 @@ author: Andrew Punnett
 main_image: /public/images/tools/electronics.jpg
 ---
 
-# Electronics
-
 Multimeters, Oscilloscopes, soldering and lots of spare parts. 
 
 ![](/public/images/tools/electronics.jpg)
