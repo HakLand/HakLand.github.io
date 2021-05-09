@@ -9,7 +9,7 @@ description: Tools at Hackland
 Click on a tool for more info.
 
 <ul>
-{% for post in alphabetical_posts %}
+{% for post in site.posts %}
 {% if post.categories contains "tools" %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}
