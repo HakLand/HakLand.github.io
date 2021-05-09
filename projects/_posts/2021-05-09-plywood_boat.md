@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PLywood Boat
+title: Plywood Boat
 description: A Plywood Boat
 date: 2019-12-22
 author: Jono Shields
