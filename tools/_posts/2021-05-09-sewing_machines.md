@@ -7,8 +7,6 @@ author: Andrew Punnett
 main_image: /public/images/tools/singer.jpg
 ---
 
-# Sewing Machines
-
 We have a collection of sewing machines including overlockers. 
 
 ![](/public/images/tools/singer.jpg)
