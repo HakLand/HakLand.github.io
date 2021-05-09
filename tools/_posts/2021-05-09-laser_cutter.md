@@ -7,8 +7,6 @@ author: Andrew Punnett
 main_image: /public/images/laser.jpg
 ---
 
-# Laser Cutter
-
 Cut and engrave plastics, wood and other materials with laser.
 
 For materials and a guide please see this. 
