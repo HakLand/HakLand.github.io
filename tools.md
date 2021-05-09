@@ -20,7 +20,6 @@ Click on a tool for more info.
 
 {% for post in site.posts %}
 {% if post.categories contains "tools" %}
-<a href="#{{ post.id }}"></a>
 <div class="tool">
     <a href="{{ post.url }}"><img class="tool-pic" src="{{ post.main_image }}"/></a>
     <div class="tool-description">
