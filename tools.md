@@ -16,6 +16,8 @@ Click on a tool for more info.
 {% endfor %}
 </ul>
 
+<hr/>
+
 {% for post in site.posts %}
 {% if post.categories contains "tools" %}
 <a href="#{{ post.id }}"></a>
