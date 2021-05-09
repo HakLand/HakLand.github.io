@@ -7,9 +7,7 @@ author: Andrew Punnett
 main_image: /public/images/cnc.jpg
 ---
 
-# CNC Machine
-
- Can cut full sized 2400x1200mm sheet materials, foams and other materials.
+Can cut full sized 2400x1200mm sheet materials, foams and other materials.
 
 Fully dust extracted. Induction required to use!
 
