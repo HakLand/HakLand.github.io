@@ -4,6 +4,8 @@ title: Blog
 description: 
 ---
 
+<h1>Hackland Projects</h1>
+
 {% for post in site.posts %}
 <div class="tool">
     <a href="{{ post.url }}"><img class="tool-pic" src="{{ post.main_image }}"/></a>
