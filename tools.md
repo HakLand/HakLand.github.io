@@ -16,7 +16,6 @@ Click on a tool for more info.
 {% endfor %}
 </ul>
 
-<!--
 {% for post in site.posts %}
 {% if post.categories contains "tools" %}
 <div class="tool">
@@ -30,4 +29,3 @@ Click on a tool for more info.
 </div>
 {% endif %}
 {% endfor %}
--->
