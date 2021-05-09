@@ -7,8 +7,6 @@ author: Andrew Punnett
 main_image: /public/images/tools/shadow-board.jpg
 ---
 
-# Hand Tools
-
 For woodwork, metalwork, randomwork and much more.
 
 ![](/public/images/tools/shadow-board.jpg)
