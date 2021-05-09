@@ -2,8 +2,6 @@
 layout: default
 title: Blog
 description: 
-pagination: 
-  enabled: true
 ---
 
 <div class="posts">
