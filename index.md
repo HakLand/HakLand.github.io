@@ -5,7 +5,7 @@ description: A makerspace nestled in the heart of Kingsland, Auckland. A place w
 ---
 
 <h4 class="tagline">
-  Sign-up to get 24-hour access to 3D printers, CNC machines and a whole heap of other [tools](/tools/).
+  [Sign-up](/join/) to get 24-hour access to 3D printers, CNC machines and a whole heap of other [tools](/tools/).
 </h4>
 
 ![](/public/images/intro-bg.jpg)
