@@ -25,4 +25,6 @@ Please have a read [here](/about/) for more information around how Hackland oper
 
 **We don't accept members for one-off time-critical project (eg: holiday van build)** - there are commercial workshops you can rent for this purpose elsewhere, eg: The Warren, Gribblehurst Community Shed.
 
-<h2 style="margin-top:2em;text-align:center;"><a href="https://forms.gle/mNkNz6qYhmUf1NGK6" class="button"> Join</a></h2>
+<h2 style="margin-top:2em;text-align:center;"><a href="https://forms.gle/V1RVY4Y9wvpLkGRp7" class="button"> Join</a></h2>
+
+
