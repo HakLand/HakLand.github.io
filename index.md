@@ -4,7 +4,7 @@ title: Hackland
 description: A makerspace nestled in the heart of Kingsland, Auckland. A place where anyone can come to learn, make or just hang out
 ---
 
-<h4>
+<h4 class="tagline">
   Sign-up to get 24-hour access to 3D printers, CNC machines and a whole heap of other tools.
 </h4>
 
