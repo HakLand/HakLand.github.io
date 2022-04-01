@@ -5,27 +5,31 @@ description: Join Hackland as a member to gain 24 hour access to the space and l
 ---
 
 Membership includes full access to everything 24/7<sup>1</sup> including:
-
 + UNLIMITED Fibre Internet
 + Access to all of the tools
 + A Storage Box for projects
 + A quiet place to work (sometimes quiet)
-+ All of the tea / coffee
-+ We have recycling, rubbish and compost bins to use, please dispose of things properly. These services are for everyone to use, so if you want to dispose of large quantities please consider taking them to the [refuse centre](https://www.aucklandcouncil.govt.nz/rubbish-recycling/Pages/transfer-stations.aspx)
++ We have recycling, rubbish and compost bins to use, please dispose of things properly. These services are for everyone to use, so if you want to dispose of large quantities please take them to the [refuse centre](https://www.aucklandcouncil.govt.nz/rubbish-recycling/Pages/transfer-stations.aspx)
 
-<sup>1</sup> No powertools/noisy things between 8pm and 8am.
+<sup>1</sup> No powertools/noisy things before 8am or after 8pm please.
 
-Please have a read [here](/about/) for more information around how Hackland operates day to day.
+Please have a read [here](/about/) for more information around how Hackland operates day to day or [here](https://app.businessregisters.govt.nz/sber-businesses/viewInstance/resource.html?node=W10000530&drmKey=S_02b8a0a9a46cae1d&drr=sse3422699072c13a2dc07304702bee45cedf119cd30c097327e7147a62ee90d7360b4926926f87a4d1c8d35fcf50b5334ux&id=229a78e05307b6d8bf1b29667f00cb17ecad4e83acd59741) for offical rules of the society as filed with the Ministry of Business and Innovation.
+
+**We don't accept members for one-off time-critical project (eg: holiday van build)** - there are commercial workshops you can rent for this purpose elsewhere.
 
 ## How to Join
 
-To join, come to our Open Day every Thursday 6-8pm to get a tour of the space by one of our members! Can’t make Thursdays? Join our slack channel [here](https://join.slack.com/t/hakland/shared_invite/zt-jrrkrdoi-it~AwREvT_ExamWwextFGw) to ask our members directly when they are around to show you the ropes.
+The hackspace is open to the public weekly on Thursday from 6pm-8pm this is the busiest time and the best for new people visiting. 
+We suggest you start with a tour during these open days to get to know us.
+Inductions are run during these open days also.
+
+Can’t make Thursdays? Join our slack channel [here](https://join.slack.com/t/hakland/shared_invite/zt-jrrkrdoi-it~AwREvT_ExamWwextFGw) to ask our members directly when they are around to show you the ropes.
+
+Once you have had an induction and we have confirmed that you are paying weekly fees into our account, we will admit you to our member group where passwords and authourisation for access can be gained.
 
 ## Membership Fees
 
 Membership costs $20 a week but please pay as much as you feel is fair so the space can survive.
-
-**We don't accept members for one-off time-critical project (eg: holiday van build)** - there are commercial workshops you can rent for this purpose elsewhere.
 
 
 
