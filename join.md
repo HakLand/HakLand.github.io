@@ -13,7 +13,7 @@ Membership includes full access to everything 24/7<sup>1</sup> including:
 
 <sup>1</sup> No powertools/noisy things before 8am or after 8pm please.
 
-Please have a read [here](/about/) for more information around how Hackland operates day to day or [here](https://app.businessregisters.govt.nz/sber-businesses/viewInstance/resource.html?node=W10000530&drmKey=S_02b8a0a9a46cae1d&drr=sse3422699072c13a2dc07304702bee45cedf119cd30c097327e7147a62ee90d7360b4926926f87a4d1c8d35fcf50b5334ux&id=229a78e05307b6d8bf1b29667f00cb17ecad4e83acd59741) for offical rules of the society as filed with the Ministry of Business and Innovation.
+Please have a read [here](/about/) for more information around how Hackland operates day to day or [here](https://app.businessregisters.govt.nz/sber-businesses/viewInstance/resource.html?node=W10000844&drmKey=S_02b8a0a9a46cae1d&drr=ss366b8e981a1319b93eb665132ab8f41172a80ee90fa256229ce3b58a25478d3e99f0ac7f94975cbcc57db7dfbfce52f4ux&id=229a78e05307b6d8bf1b29667f00cb1701129244d06f7349) for offical rules of the society as filed with the Ministry of Business and Innovation.
 
 **We don't accept members for one-off time-critical project (eg: holiday van build)** - there are commercial workshops you can rent for this purpose elsewhere.
 
