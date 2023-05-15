@@ -4,6 +4,7 @@ title: Contact
 description: How to get in touch with Hackland and the rest of the community
 ---
 
+## Contact Us
 The two best ways to get in touch are...
 
 1. [Talk to us on Slack](https://join.slack.com/t/hakland/shared_invite/zt-jrrkrdoi-it~AwREvT_ExamWwextFGw)
@@ -21,6 +22,12 @@ We are situated on Newton Rd, Auckland.
         </p>
     </div>
 </div>
+
+## Parking
+
+![](/public/images/parking.jpg)
+
+## Socials
 
 You can also find us online at...
 
