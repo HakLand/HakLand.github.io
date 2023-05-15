@@ -25,7 +25,7 @@ We are situated on Newton Rd, Auckland.
 
 ## Parking
 
-![](/public/images/parking.jpg)
+![](/public/images/parking.png)
 
 ## Socials
 
