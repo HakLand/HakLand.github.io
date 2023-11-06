@@ -73,3 +73,9 @@ The Te Atatu Peninsula Digital Makerspace in the community centre. Visit for 3D 
 #### The Warren ([website](https://www.thewarren.nz/))
 
 A community workshop that runs classes and allows members of the public to rent a bench for as little as $4 an hour. Visit for Woodworking.
+
+#### Voyager ([website](https://voyager.nz/))
+
+Hackland's Internet is sponsored by Voyager.
+
+[![](/public/images/voyager.png){:style="width: 300px; height: 107px; display:block; margin-left:auto; margin-right:auto"}](https://voyager.nz/)
